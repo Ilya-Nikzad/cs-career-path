@@ -137,3 +137,26 @@ while True:
         count += number
 #END PROGRAM
 
+
+# BEGIN PROGRAM
+# Task 7: Finding maximum value in a list
+
+# Step 1: Create a list of numbers (Collection)
+list_num = [12, 555, 23, 5, 8, 1, 8]
+
+# Step 2: Store the first element as the initial maximum value (Memory)
+max_num = list_num[0]
+
+# Step 3: Start looping through each number in the list (Loop)
+for check_num in list_num:
+
+    # Step 4: Compare current number with the maximum value (Condition + Computation)
+    if check_num > max_num:
+
+        # Step 5: Update maximum value if a larger number is found (Memory)
+        max_num = check_num
+
+# Step 6: Display the final maximum value
+print("Maximum number is:", max_num)
+# END PROGRAM
+
