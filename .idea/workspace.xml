@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="071354c0-a1a3-4787-9b74-9c4ca8c0fdc6" name="Changes" comment="Update course progress and README roadmap dashboard">
-      <change afterPath="$PROJECT_DIR$/1-python/02_daily_practice/day-03/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-python/02_daily_practice/day-03/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/overall.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/overall.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
