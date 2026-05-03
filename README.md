@@ -40,7 +40,7 @@ This repository is a personal learning system used to organize a roadmap, track 
 
 | # | Course | Status | Progress | Folder | Certificate |
 |---|--------|--------|----------|--------|-------------|
-| 1 | Python for Everybody | ✅ Completed | ██████████ 100% | [01_p4e_course](./01_p4e_course) | https://coursera.org/share/21daa2aad428d89fb167a89df0386f76 |
+| 1 | Python for Everybody | ✅ Completed | ██████████ 100% | [01_p4e_course](1-python/01_p4e_course) | https://coursera.org/share/21daa2aad428d89fb167a89df0386f76 |
 | 2 | Course Name | ⏳ Not Started | ░░░░░░░░░░ 0% | [folder_name](./folder_name) | - |
 | 3 | Course Name | ⏳ Not Started | ░░░░░░░░░░ 0% | [folder_name](./folder_name) | - |
 | 4 | Course Name | ⏳ Not Started | ░░░░░░░░░░ 0% | [folder_name](./folder_name) | - |
