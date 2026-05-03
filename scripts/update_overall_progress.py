@@ -39,14 +39,26 @@ print("[DEBUG] Updating README...")
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
-new_content = re.sub(
-    r"## 📊 Overall Progress\s*\n.*",
-    f"## 📊 Overall Progress\n\n{bar} {overall}%",
-    content
+start = "## 📊 Overall Progress"
+end = "## 🧭 Learning Roadmap"
+
+pattern = re.compile(
+    f"{start}.*?{end}",
+    re.DOTALL
 )
 
+replacement = f"""{start}
+
+{bar} {overall}%
+
+---
+
+{end}"""
+
+new_content = pattern.sub(replacement, content)
+
 if content == new_content:
-    print("[DEBUG] No change detected in README section")
+    print("[DEBUG] No change detected")
 else:
     print("[DEBUG] README updated")
 
