@@ -1,53 +1,28 @@
 # 1 - Python Learning Path
 
-This folder contains my structured Python learning journey.
+## 📚 Structure Dashboard
+
+| Folder | Purpose | Status |
+|--------|--------|--------|
+| 01_p4e_course | Python for Everybody (Core Fundamentals) | ✅ Completed |
+| 02_daily_practice | Daily Python Practice (Consistency Building) | ⏳ In Progress |
+| 03_problem_solving | Problems, Algorithms, Flowcharts (DSA Foundation) | ⏳ In Progress |
+| 04_additional_courses | Advanced Python / Data / ML / External Courses | ⏳ Not Started |
+| 99_playground | Experiments, Testing, Exploration | ⏳ Active |
 
 ---
 
-## 📚 Structure
+## 🧭 System Design
 
-### 01_p4e_course
-Core Python course modules (1 → 7)
-
-### 02_daily_practice
-Structured day-by-day practice plan (guided learning workflow)
-
-### 03_problem_solving
-(To be filled later)
-
-### 04_additional_courses
-Extra Python learning resources
-
-### 99_playground
-Experiments and random tests
+- Structured step-by-step progression  
+- Foundation → Practice → Problem Solving → Advanced Learning → Experimentation  
+- Built for long-term expansion (Data Science, DSA, ML, Projects)
 
 ---
 
-## 🔁 Learning Flow
+## 🚀 Progress Status
 
-1. Learn fundamentals → 01_p4e_course  
-2. Structured daily practice → 02_daily_practice
-3. Expand knowledge → 03_additional_courses  
-4. Experiment → 99_playground  
-
----
-
-## 🎯 Goal
-
-Build strong Python fundamentals, deep understanding, and problem-solving ability for DSA and software engineering.
-
----
-
-## ⚙️ Learning Method
-
-- Learn one concept at a time
-- Practice immediately after learning
-- Think before checking answers
-- Focus on understanding, not speed
-- Keep consistency over intensity
-
----
-
-## 🚀 Status
-
-Active Learning Phase (Step-by-step progression)
+- Python Fundamentals (P4E) → ✅ Completed  
+- Python Data Structures → ⏳ In Progress  
+- Problem Solving / Algorithms → ⏳ In Progress  
+- Future Expansion (Data Science / ML / DSA) → ⏳ Planned  
