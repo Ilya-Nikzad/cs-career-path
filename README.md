@@ -10,8 +10,7 @@ Hi! I'm a self-learning Python developer focused on building strong foundations 
 
 This repository is a personal learning system used to organize a roadmap, track progress, and build real skills through structured practice and projects.
 
-**The focus is on:**
-
+**Focus:**
 - Strong foundations through structured learning  
 - Continuous practice and problem solving  
 - Long-term skill development  
@@ -21,24 +20,14 @@ This repository is a personal learning system used to organize a roadmap, track 
 
 ## 📊 Overall Progress
 
-**CS Career Path Completion**
-
 ███████░░░░░░░░░░░░ 10%
 
 ---
 
-## 🧭 Learning Roadmap (High-Level)
+## 🧭 Learning Roadmap
 
-This journey follows 8 progressive phases covering:
-
-mathematics → logic → Python programming → data structures → algorithms → core computer science concepts → advanced mathematics → real-world projects
-
----
-
-## 🧭 Execution Path
-
-| Step | Description |
-|------|-------------|
+| Step | Phase |
+|------|------|
 | 1 | Python Foundation |
 | 2 | Data Structures & Algorithms |
 | 3 | Math for Computer Science |
@@ -60,16 +49,7 @@ mathematics → logic → Python programming → data structures → algorithms 
 
 ---
 
-## 🧭 Legend
-
-- █ = Completed work  
-- ░ = Remaining work  
-- ✅ Completed = Course finished  
-- ⏳ Not Started = Not started yet  
-
----
-
-## 🔗 Connect with Me
+## 🔗 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ilya--Nikzad-181717?style=for-the-badge&logo=github)](https://github.com/Ilya-Nikzad)
 
