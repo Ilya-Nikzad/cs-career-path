@@ -17,13 +17,16 @@ def count_files(path):
 
 def get_progress(path):
     files = count_files(path)
+    print(f"[DEBUG] {path} -> {files} files")
     return min(files * 10, 100)
 
 def calculate_overall():
     total = 0
     for course in COURSES:
         total += get_progress(course)
-    return int(total / len(COURSES))
+    overall = int(total / len(COURSES))
+    print(f"[DEBUG] TOTAL OVERALL -> {overall}")
+    return overall
 
 overall = calculate_overall()
 
@@ -31,16 +34,23 @@ bar_len = 20
 filled = int(overall / 5)
 bar = "█" * filled + "░" * (bar_len - filled)
 
+print("[DEBUG] Updating README...")
+
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
-content = re.sub(
+new_content = re.sub(
     r"## 📊 Overall Progress\s*\n.*",
     f"## 📊 Overall Progress\n\n{bar} {overall}%",
     content
 )
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(content)
+if content == new_content:
+    print("[DEBUG] No change detected in README section")
+else:
+    print("[DEBUG] README updated")
 
-print("Overall progress updated:", overall)
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(new_content)
+
+print("[SUCCESS] Overall progress updated:", overall)
