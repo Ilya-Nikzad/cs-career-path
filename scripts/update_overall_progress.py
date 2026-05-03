@@ -1,5 +1,4 @@
 import os
-import re
 
 COURSES = [
     "1-python/01_p4e_course",
@@ -16,17 +15,11 @@ def count_files(path):
     return total
 
 def get_progress(path):
-    files = count_files(path)
-    print(f"[DEBUG] {path} -> {files} files")
-    return min(files * 10, 100)
+    return min(count_files(path) * 10, 100)
 
 def calculate_overall():
-    total = 0
-    for course in COURSES:
-        total += get_progress(course)
-    overall = int(total / len(COURSES))
-    print(f"[DEBUG] TOTAL OVERALL -> {overall}")
-    return overall
+    total = sum(get_progress(c) for c in COURSES)
+    return int(total / len(COURSES))
 
 overall = calculate_overall()
 
@@ -34,35 +27,27 @@ bar_len = 20
 filled = int(overall / 5)
 bar = "█" * filled + "░" * (bar_len - filled)
 
-print("[DEBUG] Updating README...")
+print("OVERALL:", overall)
 
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
-start = "## 📊 Overall Progress"
-end = "## 🧭 Learning Roadmap"
+start = "<!-- PROGRESS_START -->"
+end = "<!-- PROGRESS_END -->"
 
-pattern = re.compile(
-    f"{start}.*?{end}",
-    re.DOTALL
-)
+if start not in content or end not in content:
+    print("ERROR: progress markers missing in README")
+    exit(1)
 
-replacement = f"""{start}
+new_section = f"""<!-- PROGRESS_START -->
+## 📊 Overall Progress
 
 {bar} {overall}%
+<!-- PROGRESS_END -->"""
 
----
-
-{end}"""
-
-new_content = pattern.sub(replacement, content)
-
-if content == new_content:
-    print("[DEBUG] No change detected")
-else:
-    print("[DEBUG] README updated")
+updated = content.split(start)[0] + new_section + content.split(end)[1]
 
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(new_content)
+    f.write(updated)
 
-print("[SUCCESS] Overall progress updated:", overall)
+print("README updated successfully")
