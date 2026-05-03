@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="071354c0-a1a3-4787-9b74-9c4ca8c0fdc6" name="Changes" comment="Update course progress and README roadmap dashboard">
+      <change afterPath="$PROJECT_DIR$/1-python/02_daily_practice/day-03/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-python/02_daily_practice/day-03/test2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ilya-Nikzad&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ilya-Nikzad/cs-career-path.git&quot;,
+    &quot;accountId&quot;: &quot;b69246e7-0836-4538-8306-69de1c147238&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3CJsGeHJ4AuchKs58bxrtNTClJU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Collection_lsit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.condition_if.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditional_execution.executor&quot;: &quot;Run&quot;,
+    &quot;Python.control_flow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ddfjalsjdf;aj.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dfdfdfd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.md.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hhjhjh.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input_output_variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop_in_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops_iteration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.manipulating_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modular_programing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.processing_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_file_process_its_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.repetition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reppeat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.revisit_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tst.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while_loop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/cs-career-path/1-python/02_daily_practice/day-03&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\cs-career-path\1-python\02_daily_practice\day-03" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="071354c0-a1a3-4787-9b74-9c4ca8c0fdc6" name="Changes" comment="" />
+      <created>1776114913276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776114913276</updated>
+    </task>
+    <task id="LOCAL-00001" summary="chore: update README layout and formatting">
+      <option name="closed" value="true" />
+      <created>1776127129130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776127129131</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Module 01: Getting Started – Python basics with notes and exercises">
+      <option name="closed" value="true" />
+      <created>1776140348015</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776140348015</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update Python roadmap README with learning structure and flow">
+      <option name="closed" value="true" />
+      <created>1776140529781</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776140529781</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Daily practice Day 1: input, output, variables">
+      <option name="closed" value="true" />
+      <created>1776152832290</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776152832290</updated>
+    </task>
+    <task id="LOCAL-00005" summary="python data structure: Note.md">
+      <option name="closed" value="true" />
+      <created>1776152879316</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776152879316</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Python Data Structure: String - String code and notes">
+      <option name="closed" value="true" />
+      <created>1776238140503</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776238140503</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Problems, Algorithms and flowchart: what's a problem and an algorithm - notes">
+      <option name="closed" value="true" />
+      <created>1776252152007</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776252152010</updated>
+    </task>
+    <task id="LOCAL-00008" summary="02_daily_practice: day-02 - Code and note">
+      <option name="closed" value="true" />
+      <created>1776299769775</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1776299769778</updated>
+    </task>
+    <task id="LOCAL-00009" summary="python_data_structures: 02manipulating_string - Code and note">
+      <option name="closed" value="true" />
+      <created>1776331970288</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1776331970290</updated>
+    </task>
+    <task id="LOCAL-00010" summary="problem_solving - problems_algorithms_flowchart - 02_think_of_a_problem : file note">
+      <option name="closed" value="true" />
+      <created>1776413646432</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1776413646433</updated>
+    </task>
+    <task id="LOCAL-00011" summary="02_daily_practice: day-03 - Code and note">
+      <option name="closed" value="true" />
+      <created>1776433671696</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1776433671696</updated>
+    </task>
+    <task id="LOCAL-00012" summary="01_p4e_course\module_2: Code and note">
+      <option name="closed" value="true" />
+      <created>1776449353920</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1776449353920</updated>
+    </task>
+    <task id="LOCAL-00013" summary="python_data_structures, 03counting: note">
+      <option name="closed" value="true" />
+      <created>1776616303032</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1776616303032</updated>
+    </task>
+    <task id="LOCAL-00014" summary="problems,algorithms_flowcharts, 03_loop_counting : loop counting note">
+      <option name="closed" value="true" />
+      <created>1776616822733</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1776616822733</updated>
+    </task>
+    <task id="LOCAL-00015" summary="02_daily_practice, day-04 : functions note and code">
+      <option name="closed" value="true" />
+      <created>1776666974610</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1776666974611</updated>
+    </task>
+    <task id="LOCAL-00016" summary="python-data_structures, revisit_string : code and note">
+      <option name="closed" value="true" />
+      <created>1776673054167</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1776673054168</updated>
+    </task>
+    <task id="LOCAL-00017" summary="python-data_structures, 04file : note">
+      <option name="closed" value="true" />
+      <created>1776744642548</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1776744642549</updated>
+    </task>
+    <task id="LOCAL-00018" summary="problems_algorithms_flowcharts, 04_al_khwarizmi_and_euclid : noted">
+      <option name="closed" value="true" />
+      <created>1776766614971</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1776766614974</updated>
+    </task>
+    <task id="LOCAL-00019" summary="02_daily_practice_ day-05 : Loop in list">
+      <option name="closed" value="true" />
+      <created>1776841226122</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1776841226122</updated>
+    </task>
+    <task id="LOCAL-00020" summary="02_daily_practice, project_grow : variable">
+      <option name="closed" value="true" />
+      <created>1776873416873</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1776873416873</updated>
+    </task>
+    <task id="LOCAL-00021" summary="02_daily_practice, day-06 : dictionary note and code">
+      <option name="closed" value="true" />
+      <created>1776926775577</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1776926775577</updated>
+    </task>
+    <task id="LOCAL-00022" summary="02_daily_practice, day-06 : dictionary note and code">
+      <option name="closed" value="true" />
+      <created>1776959272574</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1776959272575</updated>
+    </task>
+    <task id="LOCAL-00023" summary="problems_algorithms_flowchart, 05_algorithms_in_media: Note">
+      <option name="closed" value="true" />
+      <created>1777015255502</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1777015255502</updated>
+    </task>
+    <task id="LOCAL-00024" summary="python_data_structure, 05processing_file : file and note">
+      <option name="closed" value="true" />
+      <created>1777041335269</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1777041335286</updated>
+    </task>
+    <task id="LOCAL-00025" summary="daily_practice,project_grow, 02: control_flow code">
+      <option name="closed" value="true" />
+      <created>1777125391128</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1777125391128</updated>
+    </task>
+    <task id="LOCAL-00026" summary="daily_practice, project_grow, 03repetition :&#10;code">
+      <option name="closed" value="true" />
+      <created>1777192796291</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1777192796292</updated>
+    </task>
+    <task id="LOCAL-00027" summary="daily_practice,project_grow,04 : modular_programing code">
+      <option name="closed" value="true" />
+      <created>1777210416019</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1777210416021</updated>
+    </task>
+    <task id="LOCAL-00028" summary="daily_practice,project_grow,05 : Collection_lsit">
+      <option name="closed" value="true" />
+      <created>1777223735057</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1777223735058</updated>
+    </task>
+    <task id="LOCAL-00029" summary="daily_practice, day-07 : repeat list">
+      <option name="closed" value="true" />
+      <created>1777302186432</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1777302186432</updated>
+    </task>
+    <task id="LOCAL-00030" summary="algorithms_flowcharts,practice_algorithms,1_average_num_list : Note">
+      <option name="closed" value="true" />
+      <created>1777306801223</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1777306801224</updated>
+    </task>
+    <task id="LOCAL-00031" summary="algorithms_flowcharts,06_From_Mathematics_to_Digital_Computers: Note">
+      <option name="closed" value="true" />
+      <created>1777313233471</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1777313233471</updated>
+    </task>
+    <task id="LOCAL-00032" summary="daily_practice, day-03: words.txt file for test">
+      <option name="closed" value="true" />
+      <created>1777372346423</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1777372346423</updated>
+    </task>
+    <task id="LOCAL-00033" summary="python_data_structures,06read_file_process_its_data: read_file_process_its_data">
+      <option name="closed" value="true" />
+      <created>1777574853447</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1777574853447</updated>
+    </task>
+    <task id="LOCAL-00034" summary="p4e_course,module_3 : conditional_execution">
+      <option name="closed" value="true" />
+      <created>1777733433014</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1777733433016</updated>
+    </task>
+    <task id="LOCAL-00035" summary="p4e_course,module_4 : function note and code">
+      <option name="closed" value="true" />
+      <created>1777744825694</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1777744825695</updated>
+    </task>
+    <task id="LOCAL-00036" summary="p4e_course,module_5 : loop and iteration">
+      <option name="closed" value="true" />
+      <created>1777830527537</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1777830527538</updated>
+    </task>
+    <task id="LOCAL-00037" summary="p4e_course,module_5 : loop and iteration">
+      <option name="closed" value="true" />
+      <created>1777831851818</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1777831851819</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Update course progress and README roadmap dashboard">
+      <option name="closed" value="true" />
+      <created>1777833508831</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1777833508831</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Update course progress and README roadmap dashboard">
+      <option name="closed" value="true" />
+      <created>1777834665960</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1777834665961</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Update course progress and README roadmap dashboard">
+      <option name="closed" value="true" />
+      <created>1777835258506</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1777835258506</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Update course progress and README roadmap dashboard">
+      <option name="closed" value="true" />
+      <created>1777844921410</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1777844921410</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Update course progress and README roadmap dashboard">
+      <option name="closed" value="true" />
+      <created>1777845339733</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1777845339733</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01_p4e_course\module_2: Code and note" />
+    <MESSAGE value="python_data_structures, 03counting: note" />
+    <MESSAGE value="problems,algorithms_flowcharts, 03_loop_counting : loop counting note" />
+    <MESSAGE value="02_daily_practice, day-04 : functions note and code" />
+    <MESSAGE value="python-data_structures, revisit_string : code and note" />
+    <MESSAGE value="python-data_structures, 04file : note" />
+    <MESSAGE value="problems_algorithms_flowcharts, 04_al_khwarizmi_and_euclid : noted" />
+    <MESSAGE value="02_daily_practice_ day-05 : Loop in list" />
+    <MESSAGE value="02_daily_practice, project_grow : variable" />
+    <MESSAGE value="02_daily_practice, day-06 : dictionary note and code" />
+    <MESSAGE value="problems_algorithms_flowchart, 05_algorithms_in_media: Note" />
+    <MESSAGE value="python_data_structure, 05processing_file : file and note" />
+    <MESSAGE value="daily_practice,project_grow, 02: control_flow code" />
+    <MESSAGE value="daily_practice, project_grow, 03repetition :&#10;code" />
+    <MESSAGE value="daily_practice,project_grow,04 : modular_programing code" />
+    <MESSAGE value="daily_practice,project_grow,05 : Collection_lsit" />
+    <MESSAGE value="daily_practice, day-07 : repeat list" />
+    <MESSAGE value="algorithms_flowcharts,practice_algorithms,1_average_num_list : Note" />
+    <MESSAGE value="algorithms_flowcharts,06_From_Mathematics_to_Digital_Computers: Note" />
+    <MESSAGE value="daily_practice, day-03: words.txt file for test" />
+    <MESSAGE value="python_data_structures,06read_file_process_its_data: read_file_process_its_data" />
+    <MESSAGE value="p4e_course,module_3 : conditional_execution" />
+    <MESSAGE value="p4e_course,module_4 : function note and code" />
+    <MESSAGE value="p4e_course,module_5 : loop and iteration" />
+    <MESSAGE value="Update course progress and README roadmap dashboard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update course progress and README roadmap dashboard" />
+  </component>
+</project>
