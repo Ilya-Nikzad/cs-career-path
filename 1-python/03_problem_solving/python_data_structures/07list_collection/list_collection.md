@@ -55,9 +55,8 @@ Task 3: “Count how many numbers are EVEN in a list”
 BEGIN PROGRAM
 1. Initialize a list of numbers
 2. Set count = 0
-3. Loop through each number in the list:
+3. Loop through each numbers in the list:
       if number % 2 == 0:
           increase count by 1
 4. Print count
 END PROGRAM
-

@@ -18,5 +18,5 @@ for num in list_num:
     else:
         # Step 7: Increase count odd by 1
         odd_numbers += 1
-# Step 8: Output result for both counters
+# Step 8: Output result for both counters.
 print(f"Even numbers are: {even_numbers}, Odd numbers are: {odd_numbers}")
