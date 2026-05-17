@@ -5,10 +5,14 @@
 | Folder | Purpose | Status |
 |--------|--------|--------|
 | 01_p4e_course | Python for Everybody (Core Fundamentals) | ✅ Completed |
-| 02_daily_practice | Daily Python Practice (Consistency Building) | ⏳ In Progress |
+| 02_python_data_structure | Python Data Structure | ✅ Completed |
 | 03_problem_solving | Problems, Algorithms, Flowcharts (DSA Foundation) | ⏳ In Progress |
-| 04_additional_courses | Advanced Python / Data / ML / External Courses | ⏳ Not Started |
+| 04_using_python_to_access_web_data | Using Python to Access Web Data | ⏳ In Progress |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 | 99_playground | Experiments, Testing, Exploration | ⏳ Active |
+|  |  |  |
 
 ---
 
@@ -23,6 +27,7 @@
 ## 🚀 Progress Status
 
 - Python Fundamentals (P4E) → ✅ Completed  
-- Python Data Structures → ⏳ In Progress  
+- Python Data Structures → ✅ Completed  
 - Problem Solving / Algorithms → ⏳ In Progress  
+- Using Python to Access Web Data → ⏳ In Progress  
 - Future Expansion (Data Science / ML / DSA) → ⏳ Planned  
