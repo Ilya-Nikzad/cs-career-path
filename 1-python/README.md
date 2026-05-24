@@ -2,17 +2,17 @@
 
 ## 📚 Structure Dashboard
 
-| Folder | Purpose | Status |
-|--------|--------|--|
-| 01_p4e_course | Python for Everybody (Core Fundamentals) | ✅ Completed |
-| 02_python_data_structure | Python Data Structure | ✅ Completed |
-| 03_problem_solving | Problems, Algorithms, Flowcharts (DSA Foundation) | ✅ Completed |
+| Folder | Purpose | Status        |
+|--------|--------|---------------|
+| 01_p4e_course | Python for Everybody (Core Fundamentals) | ✅ Completed   |
+| 02_python_data_structure | Python Data Structure | ✅ Completed   |
+| 03_problem_solving | Problems, Algorithms, Flowcharts (DSA Foundation) | ✅ Completed   |
 | 04_using_python_to_access_web_data | Using Python to Access Web Data | ⏳ In Progress |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| 99_playground | Experiments, Testing, Exploration | ⏳ Active |
-|  |  |  |
+|  |  |               |
+|  |  |               |
+|  |  |               |
+| 99_playground | Experiments, Testing, Exploration | ⏳ Active      |
+|  |  |               |
 
 ---
 
