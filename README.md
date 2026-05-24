@@ -21,7 +21,7 @@ This repository is a personal learning system used to organize a roadmap, track 
 <!-- PROGRESS_START -->
 ## 📊 Overall Progress
 
-██████████░░░░░░░░░░ 53%
+███████████░░░░░░░░░ 56%
 <!-- PROGRESS_END -->
 
 ---
