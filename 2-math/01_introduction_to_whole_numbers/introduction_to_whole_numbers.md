@@ -205,3 +205,16 @@ Divisibility rules for 2, 5, 10:
 - 2: last digit even  
 - 5: last digit 0 or 5  
 - 10: last digit 0  
+
+---
+
+## You’ve completed:
+
+- Whole numbers basics  
+- Place value  
+- Rounding  
+- Multiples  
+- Divisibility rules  
+- Prime numbers  
+- Prime factorization  
+- LCM basics  
