@@ -92,12 +92,6 @@ Allow data exchange
 Are destroyed after use  
 
 4. Example
-```python
-import socket
-
-mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-mysock.connect(("example.com", 80))
-```
 
 This:
 
@@ -200,12 +194,6 @@ Connect to server (host + port)
 This establishes a live communication channel  
 
 4. Example
-```python
-import socket
-
-mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-mysock.connect(("data.pr4e.org", 80))
-```
 
 5. Mental Model
 
