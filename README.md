@@ -1,20 +1,30 @@
 # CS Career Path
 
-A structured, long-term learning system for building strong foundations in computer science, programming, and problem-solving through consistent practice, projects, and step-by-step progression.
+A structured roadmap for learning computer science and becoming a stronger software engineer.
 
+This repository documents my journey from programming fundamentals to advanced computer science concepts through:
+
+- 📚 Structured learning paths
+- 💻 Programming practice
+- 🧠 Computer science fundamentals
+- 🚀 Real projects
+- 📊 Progress tracking
+
+Built through consistent learning, practice, and continuous improvement over time.
 ---
 
 ## 👤 About Me
 
-Hi! I'm a self-learning Python developer focused on building strong foundations in programming and computer science.
+Hi! I'm a Python developer focused on building strong foundations in computer science, software engineering, and problem solving.
 
-This repository is a personal learning system used to organize a roadmap, track progress, and build real skills through structured practice and projects.
+This repository documents my progress through structured learning, practice, and hands-on projects.
 
 **Focus:**
-- Strong foundations through structured learning  
-- Continuous practice and problem solving  
-- Long-term skill development  
-- Consistent step-by-step growth  
+- Building strong programming fundamentals
+- Improving problem-solving skills
+- Understanding computer science concepts
+- Developing practical software projects
+- Continuous improvement through consistent practice  
 
 ---
 
@@ -28,27 +38,28 @@ This repository is a personal learning system used to organize a roadmap, track 
 
 ## 🧭 Learning Roadmap
 
-| Step | Phase |
-|------|------|
-| 1 | Python Foundation |
-| 2 | Data Structures & Algorithms |
-| 3 | Math for Computer Science |
-| 4 | CS Fundamentals (CS50) |
-| 5 | Project Building |
+A structured path from programming foundations to software engineering skills.
+
+| Step | Phase | Focus |
+|------|------|------|
+| 1 | Python Foundation | Programming basics, clean code, problem solving, and core Python concepts |
+| 2 | Data Structures & Algorithms | Data organization, algorithms, complexity, and logical thinking |
+| 3 | Math for Computer Science | Mathematical thinking, logic, and foundations for computing |
+| 4 | CS Fundamentals (CS50) | Computer systems, algorithms, memory, and fundamental CS concepts |
+| 5 | Project Building | Applying knowledge through practical projects and real-world development |
 
 ---
 
 ## 📅 Course Progress Tracker
 
-| # | Course | Status        | Progress        | Folder                                                                                 | Certificate |
-|---|--|---------------|-----------------|----------------------------------------------------------------------------------------|-----------|
-| 1 | Python for Everybody | ✅ Completed   | ██████████ 100% | [01_p4e_course](1-python/01_p4e_course)                                                | https://coursera.org/share/21daa2aad428d89fb167a89df0386f76 |
-| 2 | Python Data Structures | ✅ Completed   | ██████████ 100% | [python_data_structures](1-python/03_problem_solving/python_data_structures)           | https://coursera.org/share/d131b1456fd5c0111df819994c3bde97 |
-| 3 | Problems, Algorithms & Flowcharts | ✅ Completed   | ██████████ 100% | [problems_algorithms_flowcharts](1-python/03_problem_solving/problems_algorithms_flowcharts) | https://coursera.org/share/56cabf89f94444beca9b2858b8c16a9d |
-| 4 | Using Python to Access Web Data | ⏳ In Progress | █░░░░░░░░░ 8%   | [04_python_web_data](./1-python/04_python_web_data/)                                                                   | - |
-| 5 | Math Prep: College & Work Ready | ⏳ In Progress | ██░░░░░░░░ 22%  | [folder_name](./folder_name)                                                           | - |
-| 6 | Course Name | ⏳ Not Started | ░░░░░░░░░░ 0%   | [folder_name](./folder_name)                                                           | - |
-
+| # | Course | Status | Progress | Notes / Folder | Certificate |
+|---|--------|--------|----------|----------------|-------------|
+| 1 | Python for Everybody | ✅ Completed | 100% | [01_p4e_course](1-python/01_p4e_course) | [View](https://coursera.org/share/21daa2aad428d89fb167a89df0386f76) |
+| 2 | Python Data Structures | ✅ Completed | 100% | [python_data_structures](1-python/03_problem_solving/python_data_structures) | [View](https://coursera.org/share/d131b1456fd5c0111df819994c3bde97) |
+| 3 | Problems, Algorithms & Flowcharts | ✅ Completed | 100% | [problems_algorithms_flowcharts](1-python/03_problem_solving/problems_algorithms_flowcharts) | [View](https://coursera.org/share/56cabf89f94444beca9b2858b8c16a9d) |
+| 4 | Using Python to Access Web Data | ⏳ In Progress | 8% | [04_python_web_data](./1-python/04_python_web_data/) | - |
+| 5 | Math Prep: College & Work Ready | ⏳ In Progress | 22% | [Math Preparation](./folder_name) | - |
+| 6 | Future Course | ⏳ Not Started | 0% | Coming soon | - |
 ---
 
 ## 🔗 Connect
