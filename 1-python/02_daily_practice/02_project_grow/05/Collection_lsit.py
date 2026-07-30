@@ -34,3 +34,4 @@ workout_list.remove("Tomorrow is rest")
 print ("Added task: Tomorrow is shoulder day")
 print ("Removed task: Tomorrow is rest")
 print (",".join(workout_list))
+
