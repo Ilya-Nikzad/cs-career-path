@@ -1,5 +1,5 @@
 def gcd(a, b):
-    # Euclidean algorithm (subtraction-based method)
+    # Euclidean jjjhjjjjjjjjjjjjjjjjj(subtraction-based method)
 
     # Repeat until both numbers become equal
     while a != b:
@@ -27,7 +27,7 @@ print(gcd(48, 18))  # Output: 6
 
 
 
-# Euclidean algorithm (modulo method)
+# Euclidean jjjhjjjjjjjjjjjjjjjjj(modulo method)
 def gcd(a, b):
 
     while b != 0:
