@@ -42,7 +42,7 @@ print("Number of tasks:", len(tasks))
 # Add the teacher's batch of tasks.
 # The student decides that one existing task is no longer needed.
 # The student also wants to know which task is currently next to work on.
-# Display the final task list.
+# Display the final task list..
 # Display the total number of remaining tasks.
 # Display the task the student should work on next.
 
