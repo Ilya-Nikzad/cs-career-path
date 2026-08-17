@@ -51,3 +51,22 @@ for i in range(3):
 # Step 5: If all 3 attempts are used and no correct password
 else:
     print("Access denied. Too many attempts.")
+#END PROGRAM
+
+
+# Integer division calculator
+#BEGIN
+first_num = input("Enter first name: ")
+second_num = input("Enter second number: ")
+if first_num.isdigit() and second_num.isdigit():
+    first_num = int(first_num)
+    second_num = int(second_num)
+    if second_num != 0:
+        division = first_num // second_num
+        remainder = first_num % second_num
+        print(f"{first_num} by {second_num} is {division} remaining {remainder}")
+    else:
+        print("Can not divide by zero")
+else:
+    print("Please enter a valid number")
+# END PROGRAM
