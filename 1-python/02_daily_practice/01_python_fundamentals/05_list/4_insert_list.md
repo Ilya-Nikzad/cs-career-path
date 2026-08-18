@@ -32,3 +32,4 @@ If you insert at an existing index, the existing items don't get replaced—they
 - **Duplicates:** allowed
 - **Important:** if the index is beyond the list, Python places the item at the end
 - **Mental model:** **“Put this one item at this position.”**
+- list[0:0] = iterable inserts all iterable items at the front, without removing existing items.
