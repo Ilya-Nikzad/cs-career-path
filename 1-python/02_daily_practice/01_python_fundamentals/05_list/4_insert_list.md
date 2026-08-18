@@ -18,3 +18,17 @@ Important rules
 If you insert at an existing index, the existing items don't get replaced—they move to make room.
 
 ---
+
+# Important Rule — `insert()`
+
+- **Type:** list method
+- **Call on:** list only
+- **Input:** index + one item
+- **Syntax:** `my_list.insert(index, item)`
+- **Purpose:** adds one item at a specific position
+- **Changes:** original list
+- **Returns:** `None`
+- **Order:** existing items shift to the right
+- **Duplicates:** allowed
+- **Important:** if the index is beyond the list, Python places the item at the end
+- **Mental model:** **“Put this one item at this position.”**

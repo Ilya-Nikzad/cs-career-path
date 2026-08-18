@@ -21,3 +21,18 @@ reverse=True = organize in the opposite direction
 
 Important rule
 reverse=True is an argument to sorting. It is different from reverse()
+
+---
+
+# Important Rule — `reverse=True`
+
+- **Type:** keyword argument
+- **Purpose:** tells certain functions/methods to use reverse order
+- **Common use:** `sorted(..., reverse=True)`
+- **Syntax:** `function(..., reverse=True)`
+- **Important:** `reverse=True` is not a method
+- **Important:** it does not mean “sort”; it only controls the direction/order
+- **`True`:** reverse order
+- **`False`:** normal/default order
+- **Changes original:** depends on the function being used
+- **Mental model:** **“Do it in reverse order.”**

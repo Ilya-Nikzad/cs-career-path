@@ -15,3 +15,19 @@ Think of reverse() when a requirement says things like:
 Important rule
 reverse() is specifically a method for Python lists.
 reverse() changes the original list.
+
+---
+
+# Important Rule — `reverse()`
+
+- **Type:** list method
+- **Call on:** list only
+- **Input:** none
+- **Syntax:** `my_list.reverse()`
+- **Purpose:** reverses the order of the list
+- **Changes:** original list
+- **Returns:** `None`
+- **Important:** it does not sort the list
+- **Example idea:** `[1, 2, 3]` → `[3, 2, 1]`
+- **Common mistake:** expecting it to return the reversed list
+- **Mental model:** **“Flip the current order.”**
