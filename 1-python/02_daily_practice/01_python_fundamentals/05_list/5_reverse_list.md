@@ -1,4 +1,4 @@
-### reverse()
+# reverse()
 ---
 
 What it is
