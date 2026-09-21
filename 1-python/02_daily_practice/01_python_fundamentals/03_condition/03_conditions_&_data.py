@@ -56,6 +56,7 @@ weather3_high = 0
 
 # Operational review
 op_review_count = 0
+op_review_records = []
 
 # Total processed records
 total_processed = 0
@@ -90,13 +91,10 @@ with open(file_name) as file:
 
         if rental_count < 100:
             low_count += 1
-            demand_category = "low"
         elif rental_count <= 500:
             normal_count += 1
-            demand_category = "normal"
         else:
             high_count += 1
-            demand_category = "high"
 
         # Demand distribution across weather
         weather = int(parts[9])
@@ -126,10 +124,9 @@ with open(file_name) as file:
                 weather3_high += 1
 
         # Operational review
-        status = "Unfavorable" if weather == 3 and rental_count > 500 else "Favorable"
-
-        if status == "Unfavorable":
+        if weather == 3 and rental_count > 500:
             op_review_count += 1
+            op_review_records.append(line)
 
 # Report
 print("Low demand:", low_count)
@@ -149,6 +146,10 @@ print("Weather 3 - Normal:", weather3_normal)
 print("Weather 3 - High:", weather3_high)
 
 print("Operational review:", op_review_count)
+
+print("Records for operational review:")
+for record in op_review_records:
+    print(record)
 
 print("Total processed:", total_processed)
 print("Totals match:", low_count + normal_count + high_count == total_processed)
