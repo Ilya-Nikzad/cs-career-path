@@ -55,30 +55,4 @@ Conditional expressions are best for simple two-way decisions.
 
 
 
-# From your lesson:
-# 
-# Create a Review classification.
-# It should happen when an AQI threshold and another relevant data condition are satisfied.
-# Use and when both conditions must be true.
-# Use or when either condition can qualify.
-# Use not when you need to invert a condition.
-# Test that every valid record gets the intended classification.
-# 
-# So Level 2 is mainly about logical operators and combining conditions.
-# 
-# Level 3 — Complex Conditions
-# 
-# From your lesson:
-# 
-# Create a more complex classification using multiple logical operators.
-# Carefully order your if/elif branches so specific cases are checked before broader ones.
-# 
-# Use a conditional expression for one simple two-way decision:
-# 
-# value = x if condition else y
-# Produce a final report containing:
-# total records
-# AQI category totals
-# Review totals
-# your additional classification
-# Test that every valid record is accounted for.
+
