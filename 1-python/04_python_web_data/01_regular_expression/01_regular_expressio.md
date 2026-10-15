@@ -10,13 +10,17 @@ Python's re library can then search for matching text and extract the results.
 
 The key idea is: you describe the pattern, and Python finds the matching text.
 
+---
+
 ## 1. What is a regular expression?
 
-A regular expression is a string that describes a text pattern. Like: 
+A regular expression is a string that describes a text pattern.
 
+```
 pattern = "cat"
 
 text = "The cat is sleeping."
+```
 
 But regex becomes more powerful when you use special symbols to describe patterns that can match many different pieces of text.
 
@@ -43,7 +47,7 @@ In Python, Regex is used to find patterns in text.
 
 ---
 
-2. `The re library`
+## 2. The re library
 
 re is a built-in Python library used to search, match, and replace text patterns using Regex.
 
