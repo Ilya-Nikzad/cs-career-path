@@ -1,7 +1,7 @@
-### Regular Expression "Regex"
+# Regular Expression "Regex"
 ---
 
-# Core Idea
+## Core Idea
 
 Regular expressions (Regex) let you search for patterns in text instead of searching for exact words.
 
