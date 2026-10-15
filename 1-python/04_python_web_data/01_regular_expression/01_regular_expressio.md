@@ -1,5 +1,4 @@
 # Regular Expression "Regex"
----
 
 ## Core Idea
 
@@ -13,7 +12,7 @@ The key idea is: you describe the pattern, and Python finds the matching text.
 
 ---
 
-1. `What is a regular expression?`
+## 1. What is a regular expression?
 
 A regular expression is a string that describes a text pattern. Like: 
 
