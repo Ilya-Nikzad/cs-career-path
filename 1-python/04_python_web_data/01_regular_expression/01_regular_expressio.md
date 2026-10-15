@@ -10,8 +10,6 @@ Python's re library can then search for matching text and extract the results.
 
 The key idea is: you describe the pattern, and Python finds the matching text.
 
----
-
 ## 1. What is a regular expression?
 
 A regular expression is a string that describes a text pattern. Like: 
