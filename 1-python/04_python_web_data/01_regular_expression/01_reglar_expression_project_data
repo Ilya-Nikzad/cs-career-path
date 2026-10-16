@@ -1,0 +1,19 @@
+messages = """
+Message 1: URGENT! My order ORD-10482 has not arrived.
+Please contact me at maria@example.com.
+
+Message 2: I received the wrong item for ORD-20931.
+My email is daniel88@example.org.
+
+Message 3: My order ORD-10482 arrived damaged.
+I would like a refund. Contact: maria@example.com.
+
+Message 4: URGENT! I was charged twice for ORD-31570.
+Please contact support at lee_7@example.net.
+
+Message 5: I want to ask about your return policy.
+No order number was provided.
+
+Message 6: Order ORD-48210 has been delayed.
+I need it before Friday. Refund requested.
+"""
