@@ -13,5 +13,4 @@ Numbers can be represented in different ways.
 - Numeral: the written symbol, such as 7.
 - Number name: the word, such as seven.
 - Quantity: the amount represented, such as seven objects.
-
 ---
