@@ -8,7 +8,7 @@ Counting is the process of saying numbers in a specific order to determine how m
 
 The counting sequence begins with 1 and continues as 2, 3, 4, 5, 6, and so on.
 
-2. Number Recognition
+2. `Number Recognition`
 
 Number recognition means identifying a number by its written symbol, spoken name, or quantity.
 
