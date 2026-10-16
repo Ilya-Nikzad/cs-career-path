@@ -57,7 +57,7 @@ A structured path from programming foundations to software engineering skills.
 | 1 | Python for Everybody | ✅ Completed | 100% | [01_p4e_course](1-python/01_p4e_course) | [View](https://coursera.org/share/21daa2aad428d89fb167a89df0386f76) |
 | 2 | Python Data Structures | ✅ Completed | 100% | [python_data_structures](1-python/03_problem_solving/python_data_structures) | [View](https://coursera.org/share/d131b1456fd5c0111df819994c3bde97) |
 | 3 | Problems, Algorithms & Flowcharts | ✅ Completed | 100% | [problems_algorithms_flowcharts](1-python/03_problem_solving/problems_algorithms_flowcharts) | [View](https://coursera.org/share/56cabf89f94444beca9b2858b8c16a9d) |
-| 4 | Using Python to Access Web Data | ⏳ In Progress | 8% | [04_python_web_data](./1-python/04_python_web_data/) | - |
+| 4 | Using Python to Access Web Data | ✅ Completed | 100% | [04_python_web_data](./1-python/04_python_web_data/) | [View](https://www.coursera.org/account/accomplishments/verify/UEMCJL8S6FCQ) |
 | 5 | Math Prep: College & Work Ready | ⏳ In Progress | 22% | [Math Preparation](./folder_name) | - |
 | 6 | Future Course | ⏳ Not Started | 0% | Coming soon | - |
 ---
