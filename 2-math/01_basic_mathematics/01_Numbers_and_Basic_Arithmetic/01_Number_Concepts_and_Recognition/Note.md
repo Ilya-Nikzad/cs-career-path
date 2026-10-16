@@ -10,7 +10,6 @@ a group. The counting sequence begins with 1 and continues as 2, 3, 4, 5, 6, and
 2 Number Recognition:
 
 Number recognition means identifying a number by its written symbol, spoken name, or quantity.
-
 Numbers can be represented in different ways.
 - Numeral: the written symbol, such as 7.
 - Number name: the word, such as seven.
