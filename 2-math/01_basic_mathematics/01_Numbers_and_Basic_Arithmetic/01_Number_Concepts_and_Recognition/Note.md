@@ -2,7 +2,7 @@
 
 ## 1. Counting and Number Recognition
 
-1. Counting Numbers:
+### 1. Counting Numbers:
 
 Counting is the process of saying numbers in a specific order to determine how many objects are in a group.
 
