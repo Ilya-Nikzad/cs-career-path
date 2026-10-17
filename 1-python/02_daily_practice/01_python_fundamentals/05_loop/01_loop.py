@@ -7,7 +7,7 @@
 # and which orders require attention based on their value.
 
 # Data Source:
-# customer_data file
+# 01_customer_data file
 # The order records represent a realistic small-business daily order
 
 # Business Rules
@@ -45,7 +45,7 @@
 # whether the reported total sales accounts for every order
 
 
-file_name = "customer_data"
+file_name = "01_customer_data"
 
 count_order = 0
 total_sale = 0
