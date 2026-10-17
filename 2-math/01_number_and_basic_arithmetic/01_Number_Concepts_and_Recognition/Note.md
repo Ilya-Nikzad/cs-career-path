@@ -184,7 +184,6 @@ Example: 6 - 2 = 4, so the distance is 4.
 16. Intervals: Count the spaces between points, not the points themselves.
 ---
 ## Practice Questions
-
 Section A: Counting and Number Recognition
 1. Write the number names for \(4, 7, 9,\) and \(12\).
 2. Write the numerals for six, eleven, three, and fifteen.
@@ -199,8 +198,7 @@ Section A: Counting and Number Recognition
 Section B: Whole Numbers and Natural Numbers
 11. Define natural numbers using the convention that counting numbers begin at 1.
 12. Define whole numbers and explain how they differ from natural numbers.
-13. Classify each number as a natural number, a whole number, both, or neither,
-14. using the convention that natural numbers begin at 1: \(0, 1, 6, -2, 3.5\).
+13. Classify each number as a natural number, a whole number, both, or neither, using the convention that natural numbers begin at 1: \(0, 1, 6, -2, 3.5\).
 14. Identify which of the following are integers: \(-8, 0, 5, 2.75, \frac34\).
 15. Explain why \(-4\) is an integer but not a whole number.
 16. Explain why \(0\) is a whole number but is excluded from the natural numbers under the convention used in this lesson.
@@ -245,4 +243,3 @@ Section E: Mixed Review and Applications
 52. Create one example of each of the following: an even number greater than 20, an odd number between 30 and 40, a whole number that is not a natural number under the convention used, and an integer that is not a whole number.
 53. Explain how counting, number recognition, number classification, and number lines are connected when solving a basic arithmetic problem.
 54. A student claims that every number to the right of zero on a standard number line is a natural number. Evaluate the claim using the definitions in this lesson.
-
