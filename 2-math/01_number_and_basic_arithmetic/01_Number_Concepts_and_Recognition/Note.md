@@ -158,7 +158,8 @@ Distance means subtract the smaller number from the bigger number.
 ```
 Example: 6 - 2 = 4, so the distance is 4.
 ```
-Summary
+---
+## Summary
 1. Counting: Finding how many objects there are.
 2. Number recognition: Knowing numbers, their names, and their quantities.
 3. Counting forward: Numbers get bigger. Counting backward: numbers get smaller.
