@@ -20,7 +20,7 @@ This repository covers mathematics from fundamental arithmetic and algebra to un
 
 | Folder | Course | Purpose | Status |
 |---|---|---|---|
-| `01_number_and_basic_arithmetic` | Basic Mathematics | Arithmetic, fractions, percentages, geometry, and introductory algebra | 🚧 In Progress |
+| `01_math_foundations_basic_to_intermediate` | Basic Mathematics | Arithmetic, fractions, percentages, geometry, and introductory algebra | 🚧 In Progress |
 | `02_math_prep_college_work_ready` | Math Prep: College & Work Ready | Equations, inequalities, graphs, polynomials, quadratics, geometry, statistics, and probability | 🚧 In Progress |
 | `03_advanced_mathematics` | Advanced Mathematics | Functions, logarithms, trigonometry, sequences, statistics, and introductory calculus | ⏳ Not Started |
 | `04_mathematics_for_computer_science` | Mathematics for Computer Science | Discrete mathematics, linear algebra, probability and statistics, calculus, and applied mathematics for computing | ⏳ Not Started |
