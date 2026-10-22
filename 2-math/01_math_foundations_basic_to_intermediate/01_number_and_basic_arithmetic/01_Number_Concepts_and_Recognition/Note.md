@@ -164,8 +164,8 @@ Example: 6 - 2 = 4, so the distance is 4.
 2. Number recognition: Knowing numbers, their names, and their quantities.
 3. Counting forward: Numbers get bigger. Counting backward: numbers get smaller.
 4. Symbols: \(>\) greater than, \(<\) less than, \(=\) equal to.
-5. Natural numbers: \(1,2,3,4,\ldots\) (usually start at 1).
-6. Whole numbers: \(0,1,2,3,4,\ldots\)
+5. Natural numbers: \(1,2,3,4,...) (usually start at 1).
+6. Whole numbers: \(0,1,2,3,4,...) (usually start at 1).
 7. Integers: Negative whole-number values, zero, and positive whole-number values.
 8. Even numbers: Divisible by 2 with no remainder.
 9. Odd numbers: Leave a remainder of 1 when divided by 2.
