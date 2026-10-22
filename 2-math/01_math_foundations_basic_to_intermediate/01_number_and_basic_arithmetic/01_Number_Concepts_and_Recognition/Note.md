@@ -162,6 +162,19 @@ Distance means subtract the smaller number from the bigger number.
 ```
 Example: 6 - 2 = 4, so the distance is 4.
 ```
+4- Points and Interval 
+
+Points: The specific locations or numbers marked on a number line.
+
+Intervals: The spaces between two points on a number line.
+
+```
+Example: On a number line from 1 to 5:
+
+1 ─── 2 ─── 3 ─── 4 ─── 5
+- Points: 1, 2, 3, 4, 5 (five points).
+- Intervals: The spaces between them (four intervals).
+```
 ---
 ## Summary
 1. Counting: Finding how many objects there are.
@@ -185,11 +198,10 @@ Example: 6 - 2 = 4, so the distance is 4.
 13. Number line: Numbers increase to the right and decrease to the left.
 14. Movement: Adding a positive number moves right; subtracting a positive number moves left.
 15. Distance: Larger number − smaller number = distance.
-16. Intervals: Count the spaces between points, not the points themselves.
-17. Definition: The distance of a number from zero, without considering its sign.
-18. Symbol: | |
-19. Examples: |5| = 5, |-5| = 5, |0| = 0.
-20. Rule: Absolute value is never negative.
+16. Points: The specific numbers or locations marked on a number line.
+17. Intervals: The spaces between two points on a number line.
+18. Absolute value: The distance of a number from zero, without considering its sign.
+19. Rule: Absolute value is never negative.
 ---
 # Practice Questions
 
