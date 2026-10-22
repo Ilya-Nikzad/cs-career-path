@@ -165,7 +165,7 @@ Example: 6 - 2 = 4, so the distance is 4.
 3. Counting forward: Numbers get bigger. Counting backward: numbers get smaller.
 4. Symbols: \(>\) greater than, \(<\) less than, \(=\) equal to.
 5. Natural numbers: \(1,2,3,4,...) (usually start at 1).
-6. Whole numbers: \(0,1,2,3,4,...) (usually start at 1).
+6. Whole numbers: \(0,1,2,3,4,...) (usually start at 0).
 7. Integers: Negative whole-number values, zero, and positive whole-number values.
 8. Even numbers: Divisible by 2 with no remainder.
 9. Odd numbers: Leave a remainder of 1 when divided by 2.
@@ -183,63 +183,77 @@ Example: 6 - 2 = 4, so the distance is 4.
 15. Distance: Larger number − smaller number = distance.
 16. Intervals: Count the spaces between points, not the points themselves.
 ---
-## Practice Questions
-Section A: Counting and Number Recognition
-1. Write the number names for \(4, 7, 9,\) and \(12\).
+# Practice Questions
+
+## Section A: Counting and Number Recognition
+
+1. Write the number names for 4, 7, 9, and 12.
 2. Write the numerals for six, eleven, three, and fifteen.
 3. A group contains 8 books. Count the books and state the total number.
-4. Write the next five numbers after \(16\).
-5. Write the five numbers immediately before \(12\), in counting order.
-6. Fill in the correct symbol \(<\), \(>\), or \(=\): \(14\ \square\ 19\).
-7. Fill in the correct symbol \(<\), \(>\), or \(=\): \(23\ \square\ 18\).
-8. Fill in the correct symbol \(<\), \(>\), or \(=\): \(17\ \square\ 17\).
-9. Arrange \(12, 5, 19, 8, 3\) in ascending order.
-10. Arrange \(4, 15, 9, 21, 7\) in descending order.
-Section B: Whole Numbers and Natural Numbers
-11. Define natural numbers using the convention that counting numbers begin at 1.
+4. Write the next five numbers after 16.
+5. Write the five numbers immediately before 12 in counting order.
+6. Fill in the correct symbol (<, >, or =): 14 □ 19.
+7. Fill in the correct symbol (<, >, or =): 23 □ 18.
+8. Fill in the correct symbol (<, >, or =): 17 □ 17.
+9. Arrange 12, 5, 19, 8, and 3 in ascending order.
+10. Arrange 4, 15, 9, 21, and 7 in descending order.
+
+## Section B: Whole Numbers and Natural Numbers
+
+11. Define natural numbers, using the convention that counting numbers begin at 1.
 12. Define whole numbers and explain how they differ from natural numbers.
-13. Classify each number as a natural number, a whole number, both, or neither, using the convention that natural numbers begin at 1: \(0, 1, 6, -2, 3.5\).
-14. Identify which of the following are integers: \(-8, 0, 5, 2.75, \frac34\).
-15. Explain why \(-4\) is an integer but not a whole number.
-16. Explain why \(0\) is a whole number but is excluded from the natural numbers under the convention used in this lesson.
-17. A student claims that every integer is a whole number. Identify whether the claim is correct and justify your response.
-18. From the list \(-5, 0, 2, 7, 9.2, \frac12\), identify all whole numbers and all integers.
-Section C: Even and Odd Numbers
-19. Classify each number as even or odd: \(13, 20, 27, 34, 41, 50\).
-20. Determine whether \(0\) is even or odd and explain why.
-21. Use the last-digit rule to classify \(3{,}482\), \(7{,}915\), \(6{,}000\), and \(12{,}347\).
+13. Classify each number as a natural number, a whole number, both, or neither, using the convention that natural numbers begin at 1: 0, 1, 6, -2, and 3.5.
+14. Identify which of the following numbers are integers: -8, 0, 5, 2.75, and 3/4.
+15. Explain why -4 is an integer but not a whole number.
+16. Explain why 0 is a whole number but is excluded from the natural numbers under the convention used in this lesson.
+17. A student claims that every integer is a whole number. Is the claim correct? Justify your answer.
+18. From the list -5, 0, 2, 7, 9.2, and 1/2, identify all the whole numbers and all the integers.
+
+## Section C: Even and Odd Numbers
+
+19. Classify each number as even or odd: 13, 20, 27, 34, 41, and 50.
+20. Determine whether 0 is even or odd, and explain why.
+21. Use the last-digit rule to classify 3,482, 7,915, 6,000, and 12,347 as even or odd.
 22. Write all the even whole numbers between 10 and 25.
 23. Write all the odd whole numbers between 10 and 25.
-24. Determine whether \(18+24\) is even or odd.
-25. Determine whether \(17+23\) is even or odd.
-26. Determine whether \(16+9\) is even or odd.
-27. Determine whether \(28-12\), \(19-7\), \(20-9\), and \(15-8\) are even or odd.
-28. Determine whether each product is even or odd: \(6\times9\), \(7\times11\), \(12\times14\), and \(5\times8\).
-29. A student says that the product of two odd integers is always even. Explain why this statement is incorrect.
+24. Determine whether 18 + 24 is even or odd.
+25. Determine whether 17 + 23 is even or odd.
+26. Determine whether 16 + 9 is even or odd.
+27. Determine whether each of the following differences is even or odd: 28 - 12, 19 - 7, 20 - 9, and 15 - 8.
+28. Determine whether each product is even or odd: 6 × 9, 7 × 11, 12 × 14, and 5 × 8.
+29. A student claims that the product of two odd integers is always even. Explain why this statement is incorrect.
 30. Find one even integer and one odd integer whose sum is 15.
-31. Without calculating the exact products, determine whether the product of three odd integers is even or odd.
+31. Without calculating the exact product, determine whether the product of three odd integers is even or odd.
 32. Explain how arranging objects into pairs can help identify whether a whole number is even or odd.
-Section D: Number Lines
+
+## Section D: Number Lines
+
 33. Draw a number line from 0 to 10 and mark every whole number.
 34. On a number line from 0 to 15, identify the position of 11.
-35. Which number is farther to the right on a number line: 8 or 13? Explain.
-36. Use a number line to represent \(3+5\).
-37. Use a number line to represent \(9-4\).
+35. Which number is farther to the right on a number line: 8 or 13? Explain your answer.
+36. Use a number line to represent 3 + 5.
+37. Use a number line to represent 9 - 4.
 38. Start at 6 and move seven units to the right. State the final position.
 39. Start at 12 and move five units to the left. State the final position.
 40. How many unit intervals are there between 3 and 9 on a standard number line?
 41. How many marked whole-number points are there from 3 through 9, including both endpoints?
 42. Explain the difference between counting marked points and counting intervals on a number line.
-43. Arrange \(11, 4, 15, 2, 8\) in ascending order and describe how their positions would appear from left to right on a number line.
+43. Arrange 11, 4, 15, 2, and 8 in ascending order. Describe how their positions would appear from left to right on a number line.
 44. A student moves four units to the left from 7 but writes 11 as the final position. Identify the error and explain the correct direction of movement.
-45. A student claims that 5 and 9 are six units apart on a standard number line. Determine whether the claim is correct and explain your reasoning.
-Section E: Mixed Review and Applications
-46. A classroom has 24 students. Explain whether the students can be divided into two equal groups without leaving anyone out, and identify the mathematical property involved.
+45. A student claims that 5 and 9 are six units apart on a standard number line. Is the claim correct? Explain your reasoning.
+
+## Section E: Mixed Review and Applications
+
+46. A classroom has 24 students. Can the students be divided into two equal groups without leaving anyone out? Explain your answer and identify the mathematical property involved.
 47. A lift is on floor 8 and moves down three floors. Represent the movement using subtraction and explain how a number line illustrates it.
-48. A teacher writes \(0,1,2,3,4,5,\ldots\) on the board. Explain which numbers are whole numbers and which are natural numbers under the convention used in this lesson.
-49. A student classifies 235 as even because it is a large number. Identify the mistake and state the correct classification rule.
-50. A student writes \(8<3\) because 8 appears before 3 in a list. Explain why the comparison is incorrect using a number line.
-51. Classify each number as a natural number, whole number, integer, even number, or odd number wherever applicable: \(0, 7, 12, -3, 15\).
-52. Create one example of each of the following: an even number greater than 20, an odd number between 30 and 40, a whole number that is not a natural number under the convention used, and an integer that is not a whole number.
+48. A teacher writes 0, 1, 2, 3, 4, 5, ... on the board. Explain which numbers are whole numbers and which are natural numbers under the convention used in this lesson.
+49. A student classifies 235 as even because it is a large number. Identify the mistake and state the correct rule for classifying a number as even or odd.
+50. A student writes 8 < 3 because 8 appears before 3 in a list. Explain why the comparison is incorrect using a number line.
+51. Classify each number as a natural number, a whole number, an integer, an even number, or an odd number, wherever applicable: 0, 7, 12, -3, and 15.
+52. Give one example of each of the following:
+   a. An even number greater than 20.
+   b. An odd number between 30 and 40.
+   c. A whole number that is not a natural number under the convention used in this lesson.
+   d. An integer that is not a whole number.
 53. Explain how counting, number recognition, number classification, and number lines are connected when solving a basic arithmetic problem.
 54. A student claims that every number to the right of zero on a standard number line is a natural number. Evaluate the claim using the definitions in this lesson.
