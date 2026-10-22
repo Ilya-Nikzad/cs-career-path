@@ -117,6 +117,10 @@ Multiplication
 - Even × Even = Even
 - Even × Odd = Even
 - Odd × Odd = Odd
+Easy trick to remember:
+- Addition/Subtraction: Same types = Even; different types = Odd.
+- Multiplication: If at least one number is even, the answer is even. Only Odd × Odd gives Odd.
+
 ---
 ## 4.Number Lines
 
@@ -182,6 +186,10 @@ Example: 6 - 2 = 4, so the distance is 4.
 14. Movement: Adding a positive number moves right; subtracting a positive number moves left.
 15. Distance: Larger number − smaller number = distance.
 16. Intervals: Count the spaces between points, not the points themselves.
+17. Definition: The distance of a number from zero, without considering its sign.
+18. Symbol: | |
+19. Examples: |5| = 5, |-5| = 5, |0| = 0.
+20. Rule: Absolute value is never negative.
 ---
 # Practice Questions
 
