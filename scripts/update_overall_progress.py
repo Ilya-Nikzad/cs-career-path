@@ -2,8 +2,8 @@ import os
 
 COURSES = [
     "1-python/01_p4e_course",
-    "1-python/03_problem_solving/python_data_structures",
-    "1-python/03_problem_solving/problems_algorithms_flowcharts",
+    "1-python/03_problem_solving/01_python_data_structures",
+    "1-python/03_problem_solving/03_problems_algorithms_flowcharts",
 ]
 
 def count_files(path):
