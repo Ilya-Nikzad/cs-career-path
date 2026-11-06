@@ -11,7 +11,7 @@ Computer: An electronic device that performs tasks according to instructions pro
 - Computer Programming: The process of creating instructions that tell computers what to do.
 
 ---
-## Hardware
+## 2 Hardware
 Hardware: The physical devices and components that make up a computer.
 
 A typical computer system has five major components:
@@ -22,10 +22,12 @@ A typical computer system has five major components:
 5. Output Devices
 
 1. Central Processing Unit (CPU)
+
 The CPU, also called the processor, executes program instructions.
 - Performs calculations and basic operations.
 - Reads and moves data in memory.
 - Compares values.
 - Executes instructions provided by programs.
 - Modern CPUs are small chips called microprocessors.
+
 The CPU is essential because a computer cannot execute software without it.
