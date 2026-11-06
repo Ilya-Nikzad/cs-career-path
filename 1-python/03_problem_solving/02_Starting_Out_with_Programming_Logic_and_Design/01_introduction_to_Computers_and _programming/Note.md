@@ -15,12 +15,13 @@ Computer: An electronic device that performs tasks according to instructions pro
 Hardware: The physical devices and components that make up a computer.
 
 A typical computer system has five major components:
+```
 1. Central Processing Unit (CPU)
 2. Main Memory (RAM)
 3. Secondary Storage Devices
 4. Input Devices
 5. Output Devices
-
+```
 1. Central Processing Unit (CPU)
 
 The CPU, also called the processor, executes program instructions.
