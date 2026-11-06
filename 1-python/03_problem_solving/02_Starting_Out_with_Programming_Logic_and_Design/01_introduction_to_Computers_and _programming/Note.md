@@ -22,7 +22,7 @@ A typical computer system has five major components:
 4. Input Devices
 5. Output Devices
 ```
-1. Central Processing Unit (CPU)
+### Central Processing Unit (CPU)
 
 The CPU, also called the processor, executes program instructions.
 - Performs calculations and basic operations.
